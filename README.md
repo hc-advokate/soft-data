@@ -1,3 +1,6 @@
+# Navicat 16教程及文件
+请进入Soft目录下
+
 # other-doc
 请点击Tools文件夹，所有免费软件及素材网站都在内。 \
 
