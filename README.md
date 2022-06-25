@@ -1,10 +1,10 @@
 # Navicat 16 破解
-请进入Soft目录下
+请进入Soft目录下，Windows和Mac破解方式不同，请注意。
 
-# other-doc
+# 网站合集
 请点击Tools文件夹，所有免费软件及素材网站都在内。 \
 
-# Adobe 全家桶Windows的不提供（网上已有），只提供Mac包含Intel和M1、M2芯片全部安装包都有，请提交Issues
+# Adobe 全家桶破解
 
 [临时邮箱](https://temp-mail.org/) \
 [临时手短信](https://www.storytrain.info/) \
