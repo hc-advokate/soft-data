@@ -16,4 +16,4 @@
 -XX:ErrorFile=$USER_HOME/java_error_in_idea_%p.log
 -XX:HeapDumpPath=$USER_HOME/java_error_in_idea.hprof
 
--javaagent:/Users/huangchao/WorkSoft/ja-netfilter.2022/ja-netfilter.jar=jetbrains
+-javaagent:D:\SoftWork\ja-netfilter\ja-netfilter.jar=jetbrains
