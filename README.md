@@ -3,8 +3,8 @@
 
 # 网站合集
 请点击Tools文件夹，所有免费软件及素材网站都在内。 \
-# Jetbrans 全家桶破解
-# Adobe 全家桶破解
+# Jetbrans 2022.X 全家桶破解
+# Adobe 2022.X 全家桶破解
 
 [临时邮箱](https://temp-mail.org/) \
 [临时手短信](https://www.storytrain.info/) \
