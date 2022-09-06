@@ -6,12 +6,6 @@
 # Jetbrans 2022.X 全家桶破解
 # Adobe 2022.X 全家桶破解
 
-[临时邮箱](https://temp-mail.org/) \
-[临时手短信](https://www.storytrain.info/) \
-[临时手短信](https://yunduanxin.net/) \
-[TYB字幕下载](https://addyoutube.com/) \
-[电影、电视配乐](https://www.tunefind.com/) \
-
 # 磁力链接无法下载解决方案
 请搜索Tracker，下载对应的BT软件，配置上即可。
 下面是一个链接[点击跳转复制](./Soft/BT-Tracker.md)
